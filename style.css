@@ -4,12 +4,22 @@ body{
     
 }
 p{
-    color: rgb(52, 6, 179);
-   width: 300px;
-   height: 500px;
-   text-align: left;
+    color: rgb(255, 0, 0);
+   width: 350px;
    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   border: solid 4px rgb(116, 102, 102);
+   border-radius: 10px 10px;
+   font-size: 20px;
 }
 html{
     background: url(img/FMA.jpg);
+}
+h1{
+    font-size: 50px;
+    
+    
+}
+h2{
+    font-size: 35px;
+    color: rgb(255, 0, 0);
 }
