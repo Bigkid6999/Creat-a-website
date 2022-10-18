@@ -4,7 +4,7 @@ body{
     
 }
 p{
-    color: rgb(17, 0, 255);
+    color: rgb(255, 0, 170);
    width: 350px;
    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
    border: solid 4px rgb(116, 102, 102);
@@ -16,15 +16,15 @@ html{
 }
 h1{
     font-size: 50px;
-    color:rgb(68, 0, 255)
+    color:rgb(255, 0, 234)
     
 }
 h2{
     font-size: 35px;
-    color: rgb(4, 0, 255);
+    color: rgb(255, 0, 234);
 }
 li{
-    color: rgb(17, 0, 255);
+    color: rgb(255, 0, 221);
     width: 350px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     border: solid 4px rgb(116, 102, 102);
